@@ -27,8 +27,7 @@
     4] Create New Database With The Same Name of (Abyss_Blue_Bank)  
     5] click on import tab  
     6] click on Choose File Button and Select Database file from Project Folder Location : Abyss_Blue_Bank > database > Abyss_Blue_Bank.sql  
-    7] click on go Button  
-    8] refer this tutorial (https://youtu.be/7WUw9J3Xs8Q)  
+    7] click on go Button   
 
 
 7. now start project with this link (http://localhost/Abyss_Blue_Bank/)  
